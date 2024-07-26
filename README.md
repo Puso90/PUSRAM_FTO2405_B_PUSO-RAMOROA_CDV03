@@ -6,7 +6,7 @@ Welcome to the GitHub repository for the [CDV03] project, focused on developing 
 
 The goal is to craft a clear, concise, and compelling resume that not only reflects your qualifications but also emphasises your suitability for software development positions. This involves presenting your information in a professional format that captures the attention of hiring managers in the tech industry.
 
-### Practical Steps for the Project
+### Practical Steps for the Project 
 
 1. **Gather and Organise Information**: Compile all relevant professional experiences, technical skills, educational achievements, and projects.
 2. **Contact Information**: Ensure your full name, phone number, professional email, and LinkedIn URL are prominently displayed at the top of your resume.
@@ -22,6 +22,6 @@ The goal is to craft a clear, concise, and compelling resume that not only refle
 4. Submit the link to your GitHub Repo via the LMS Project Tab by the submission deadline.
 
 ### Link to Resume
-[Your Google Docs Resume](<insert your Google Docs link here>)
+[Your Google Docs Resume](https://docs.google.com/document/d/1AUmIKCmuahHw3fNE8bMRQJgRkpjVnA_s6hAfmYpIzw4/edit?usp=sharing)
 
 This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `<insert your Google Docs link here>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
